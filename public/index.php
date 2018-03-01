@@ -201,4 +201,5 @@
 </body>
     <script src="js/jquery-3.3.1.min.js"></script>
     <script src="js/materialize.min.js"></script>
+    <script src="js/skin.js"></script>
 </html>
