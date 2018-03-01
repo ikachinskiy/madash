@@ -1,0 +1,12 @@
+{
+  "name": "SmartNET/MaterialDash",
+  "description": "Test Materialize",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Kachinskiy Ivan",
+      "email": "ivan@kachinskiy.ru"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+body {
+  background-color: #d5e7c2;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column; }
+
+main {
+  flex: 1 0 auto; }
+
+/*# sourceMappingURL=skin.css.map */
