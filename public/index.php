@@ -19,9 +19,9 @@
         <nav class="green">
             <div class="nav-wrapper">
                 <div class="col s6">
-                    <a href="#!" class="breadcrumb">First</a>
-                    <a href="#!" class="breadcrumb">Second</a>
-                    <a href="#!" class="breadcrumb">Third</a>
+                    <a href="#" class="breadcrumb">First</a>
+                    <a href="#" class="breadcrumb">Second</a>
+                    <a href="#" class="breadcrumb">Third</a>
                 </div>
                 <div class="col s6">
                     <a class="waves-effect waves-light btn teal lighten-1" href="#">Кнопка</a>
@@ -36,12 +36,12 @@
 
                     <!-- Dropdown Structure -->
                     <ul id='dropdown1' class='dropdown-content'>
-                        <li><a href="#!">Раз</a></li>
-                        <li><a href="#!">Два</a></li>
+                        <li><a href="#">Раз</a></li>
+                        <li><a href="#">Два</a></li>
                         <li class="divider"></li>
-                        <li><a href="#!">Три</a></li>
-                        <li><a href="#!"><i class="material-icons">view_module</i>Четыре</a></li>
-                        <li><a href="#!"><i class="material-icons">cloud</i>Пять</a></li>
+                        <li><a href="#">Три</a></li>
+                        <li><a href="#"><i class="material-icons">view_module</i>Четыре</a></li>
+                        <li><a href="#"><i class="material-icons">cloud</i>Пять</a></li>
                     </ul>
                 </div>
             </div>
@@ -185,8 +185,8 @@
             <div class="col l4 offset-l2 s12">
                 <h5 class="white-text">Links</h5>
                 <ul>
-                    <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
-                    <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
+                    <li><a class="grey-text text-lighten-3" href="#">Link 1</a></li>
+                    <li><a class="grey-text text-lighten-3" href="#">Link 2</a></li>
                 </ul>
             </div>
         </div>
@@ -194,7 +194,7 @@
     <div class="footer-copyright grey darken-2">
         <div class="container">
             © 2018 SmartNET Group
-            <a class="grey-text text-lighten-4 right" href="#!">Больше связей</a>
+            <a class="grey-text text-lighten-4 right" href="#">Больше связей</a>
         </div>
     </div>
 </footer>
